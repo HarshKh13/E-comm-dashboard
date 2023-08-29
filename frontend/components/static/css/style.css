@@ -1,0 +1,63 @@
+.navbar ul li{
+    display:inline-block;
+    padding: 10px;
+}
+.navbar ul li a{
+    color : #fff;
+    padding : 5px;
+    text-decoration : none;
+}
+  
+.navbar ul {
+    padding:5px;
+    margin:0;
+    background-color:blue;
+}
+
+.inputbox {
+    display:block;
+    margin:25px;
+    padding:7px;
+    width:300px;
+    border:1px solid black;
+
+}
+
+.credentials{
+    margin-left: 38%;
+}
+
+.button{
+    margin: 25px;
+    padding: 10px;
+    width: 150px;
+    background-color: green;
+    border: 1px solid;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}
+
+.product-list{
+    text-align:center;
+    margin-top: 50px;
+}
+
+.product-list ul li{
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width: 150px;
+}
+
+.product-list ul{
+    margin: 0;
+}
+  
+.search{
+    width: 400px;
+    margin: 20px;
+    height: 30px;
+    border-color: black;
+    border-radius: 6px;
+}
